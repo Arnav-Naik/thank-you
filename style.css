@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap");
+
+body {
+  font-family: "Leckerli One", cursive;
+  text-align: center;
+  background-color: aqua;
+  font-size: 30px;
+}
+
+.d1 {
+  width: 1px;
+}
